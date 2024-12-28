@@ -47,8 +47,8 @@ A responsive and interactive weather dashboard built using **Next.js** and **Tai
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-dashboard.git
-   cd weather-dashboard
+   git clone https://github.com/darabperwaiz/inrisk-weather-dashboard.git
+   cd inrisk-weather-dashboard
 
 2. Install dependencies:
    ```bash
