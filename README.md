@@ -1,5 +1,9 @@
 ## Getting Started
 
+## Live Demo
+
+Check out the live version of the dashboard here:  
+👉 [Weather Dashboard](https://inrisk-weather-dashboard.vercel.app/)
 
 # InRisk Weather Dashboard 🌦️
 
